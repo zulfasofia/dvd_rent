@@ -1,6 +1,0 @@
-account lable	:tcinema.great-site.net
-pass		:aJ1cxvDBzIBJwz
-username	:epiz_30220634
-
-DB name		:epiz_30220634_db_tcinema
-mysql hostname	:sql109.epizy.com
